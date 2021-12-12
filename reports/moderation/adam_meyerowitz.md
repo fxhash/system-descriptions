@@ -32,6 +32,7 @@ We also discovered that Adam was trying to push Ordure's work ([profile](https:/
 
 More elements were discovered by the community, but this report won't go though all of them as it seems to us that this is enough to establish a judgement on the situation.
 
+We reached out with Adam to try to clarify the situation before taking any public action, however their answer didn't clear any doubt we had on the situation. We will not disclose the conversation as it was private.
 
 # Conclusion
 
