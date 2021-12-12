@@ -3,7 +3,7 @@ Report regarding the suspicious activity of Adam Meyerowitz
 
 *12/12/2021*
 
-theirThis document is a summary of the suspicious acitvity which happened around Adam Meyerowitz (*tz1PSNkFzJVBmSrmPaSbikkUc8vMiM4Z3GRC*) on fxhash.
+This document is a summary of the suspicious acitvity which happened around Adam Meyerowitz (*tz1PSNkFzJVBmSrmPaSbikkUc8vMiM4Z3GRC*) on fxhash.
 
 * fxhash profile account: [https://fxhash.xyz/pkh/tz1PSNkFzJVBmSrmPaSbikkUc8vMiM4Z3GRC](https://fxhash.xyz/pkh/tz1PSNkFzJVBmSrmPaSbikkUc8vMiM4Z3GRC)
 
