@@ -28,6 +28,8 @@ This document is a summary of the suspicious acitvity which happened around Adam
 
 * What follows is various changing of hands of 'Suprematist Method #3' over the market place between linked accounts for prices ranging between 30 xtz and 1,050 xtz
 
+Charlie created a list of those transactions: [https://docs.google.com/spreadsheets/d/1I7wNv6a_uDJJ8udgQY74pWq_0Cr8NMr8Mlo5Ets8Kfk/edit#gid=1378423204](https://docs.google.com/spreadsheets/d/1I7wNv6a_uDJJ8udgQY74pWq_0Cr8NMr8Mlo5Ets8Kfk/edit#gid=1378423204)
+
 We also discovered that Adam was trying to push Ordure's work ([profile](https://www.fxhash.xyz/pkh/tz1VE1gFxMZ5TVCwWaYpXGANcfhyjgiUGkpg)), a known copyminter, on twitter. You will find evidences of some of these tweets in the `./images` folders. We have reasons to believe that Adam and Ordure are related in a some way or the other (if not the same person).
 
 More elements were discovered by the community, but this report won't go though all of them as it seems to us that this is enough to establish a judgement on the situation.
