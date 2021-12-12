@@ -50,3 +50,16 @@ We will carefully monitor their work in the future.
 We can understand that the bahaviour Adam had with their work is not something we want within our community. However, please be respectful towards Adam as this could still be an isolated mistake they made, trying to game the system to earn some money.
 
 Until their work was not found stolen, we will consider it to be original and won't take further actions.
+
+
+# Contributors
+
+The following members contributed to the findings and to this report:
+* ashanke
+* Xander Merricks
+* BradML
+* DaHawaiian
+* qaulv
+* Liam
+* Charlie
+* ciphrd 
