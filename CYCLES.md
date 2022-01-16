@@ -7,9 +7,9 @@ A generic-purpose cycles contract defines a list of cycles which can be used by 
 * Cycles contract: `KT1ELEyZuzGXYafD2Gar6iegZN1YdQR3n3f5`
 
 The contract stores a list of cycles, each cycle is defined as following:
-* `start time` (timestamp)`: a` time `reference for` when `the cycle` starts
-`* opening` time (seconds): the duration for which the cycle will be opened
-* closing time (seconds): the duration for which the cycle will be closed
+* `start time` (timestamp): a time reference for when the cycle starts
+* `opening duration` (seconds): the duration for which the cycle will be opened
+* `closing duration` (seconds): the duration for which the cycle will be closed
 
 This is the lifecycle of a cycle:
 
